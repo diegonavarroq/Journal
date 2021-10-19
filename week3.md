@@ -1,3 +1,8 @@
+# Week 3: Polyglot Programming
+
+[go back](diegonavarroq.github.io/Journal)
+
+
 # The Myth of the Genius Programmer 
 
 The myth says that a person who sees himself as a genius has to isolate in a cave(joke) to develop an idea and then reveal it to impress the world all this in secret, another thing is that people feel observed and judged when they make mistakes while working but the true is that if you are in good environment coworkers are there to help you. This behavior slows down progress, allow other people to become familiar with your work so they can help you. No matter how smart you are, if you don't have the ability to communicate and teamwork, you won't get very far in any job you do also It is a good skill to have to be able to give constructive criticism in a good way not in a way to offending. Embrace failure is an option because you want it or not you are going to learn something of those failures, unless you are failing over and over again at the same thing that is a red flag so be careful. When the failures come, you have to be prepared to receive them because some mistakes are harder than others, but the faster you can fail and try again the faster you will learn, practice is what makes experts. Be a small fish, be the person with the less knowledge in the room so you can learn from them also be vulnerable and be capable to admit the mistakes you made to your peers because this means that you are strong enough to affront and correct your own mistakes. Involve people in your project in the initial stages where they can actually contribute something, but not too early because there may be a conflict between your goals and those of others, the sweet spot is when your project already has a small prototype that can create the necessary inertia in people to begin to share that same goal that you had in mind from the beginning. This conference describes an ideal work environment and from what I have seen in Encora their ideals are quite similar to those of this conference. 
@@ -26,9 +31,9 @@ Pillars of web performance:
 
  
 
-# Variable length codes 
+# Compressor Heads Series 
 
-We are in an era of explosion in the matter of digital content where millions of data travel the vast internet around the world every second that passes. This is what leads to the need to use compression algorithms to reduce the size of that content. 
+We are in an era of explosion in the matter of digital content where millions of data travel the vast internet around the world every second that passes. This is what leads to the need to use compression algorithms to reduce the size of that content. It is somewhat complicated and technical for me but I will be studying a little more on the subject so that this does not stay that way.
 
  
 
