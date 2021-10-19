@@ -1,6 +1,6 @@
 # Week 3: Polyglot Programming
 
-[go back](diegonavarroq.github.io/Journal)
+[go back](https://diegonavarroq.github.io/Journal/)
 
 
 # The Myth of the Genius Programmer 
