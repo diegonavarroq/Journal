@@ -1,6 +1,5 @@
-# Week 3: Polyglot Programming
+# Week 2: Polyglot Programming
 
-[go back](https://diegonavarroq.github.io/Journal/)
 
 
 # The Myth of the Genius Programmer 
@@ -123,3 +122,6 @@ WE ARE ALL A WORK IN PROCESS
 # Who do you trust? Beware of your brain 
 
 It is a clear warning to something that we already have hardwired by the thousands of years of evolution, which is making prejudices about other people, having label boxes ready to put people in before we even know them is our specialty. Something that once functioned as a survival mechanism is now something outdated to be left in the past. It is important to highlight this being in a work environment with a coexistence policy as free and based on mutual respect as is managed in encora. 
+
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
