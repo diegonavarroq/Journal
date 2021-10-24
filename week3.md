@@ -48,4 +48,4 @@ I had never heard of Vim, now I know that it is the most efficient and intuitive
 I had never used Git until a couple of weeks ago when one of my mentors suggested it as a topic in one of our meetings, it's a pretty useful tool when you're doing pair programming. What I did when I needed to make major modifications to some code, I copied all the code and saved it in a .txt file and that was my version control, my method quite prehistoric, right? So, this class on Git was quite useful, especially all the commands and a little about the operation that it explains. 
 
 
-[INDEX](diegonavarroq.github.io/Journal)
+[INDEX](https://diegonavarroq.github.io/Journal/)
