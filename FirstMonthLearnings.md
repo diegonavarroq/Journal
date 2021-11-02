@@ -25,3 +25,6 @@ Although this book has been written for more than 20 years, it is still quite cu
 - A little bit of electronics. 
 - Logic gates. 
 - Computers are the same as 20 years ago. 
+
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
