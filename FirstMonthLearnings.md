@@ -1,4 +1,4 @@
-# First Month Learnings
+# First Month Learning
 
 ![](https://github.com/diegonavarroq/Journal/blob/main/images/month.png "MonthCheatSheet")
 
