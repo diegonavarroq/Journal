@@ -1,6 +1,6 @@
 # First Month Learnings
 
-![](https://github.com/diegonavarroq/Journal/blob/main/images/Screen%20Shot%202021-11-01%20at%2021.47.18.png "MonthCheatSheet")
+![](https://github.com/diegonavarroq/Journal/blob/main/images/month.png "MonthCheatSheet")
 
 
 ## Code: The Hidden Language of Computer Hardware and Software
