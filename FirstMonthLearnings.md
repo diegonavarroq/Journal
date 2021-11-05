@@ -1,8 +1,8 @@
 # First Month Learnings
 
-[Sketch notes of the month](https://github.com/diegonavarroq/Journal/blob/main/images/WhatsApp%20Image%202021-11-01%20at%2022.09.14.jpeg) 
+## Sketch Notes of the Month
+![Sketch notes of the month](https://github.com/diegonavarroq/Journal/blob/main/images/month.png?raw=true) 
 
-[Sketch notes of make it stick](https://github.com/diegonavarroq/Journal/blob/main/images/make%20it%20stick.png)
 
 ## Code: The Hidden Language of Computer Hardware and Software
 
@@ -27,5 +27,7 @@ Although this book has been written for more than 20 years, it is still quite cu
 - Logic gates. 
 - Computers are the same as 20 years ago. 
 
+
+![Make it stick](https://github.com/diegonavarroq/Journal/blob/main/images/make%20it%20stick.png?raw=true)
 
 [INDEX](https://diegonavarroq.github.io/Journal/)
