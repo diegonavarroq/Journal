@@ -20,6 +20,8 @@ The second part was to make a mockup of the possible final design of the applica
 
 With this program, it will be possible to stimulate both the learning process of a person and their ability to teach others, which constitutes a complete cycle of teaching-learning in which the person manages to train in an integral way, which in turn will allow them to carry out to practice what has been learned, and to provide feedback on the theory.
 
+![didasko1](https://github.com/diegonavarroq/Journal/blob/main/images/Didasko3001/Screen%20Shot%202021-11-08%20at%2022.14.50.png?raw=true)
+![didasko2](https://github.com/diegonavarroq/Journal/blob/main/images/Didasko3001/Screen%20Shot%202021-11-08%20at%2022.15.01.png?raw=true)
 
 ## Cerberos3002
 
@@ -41,6 +43,8 @@ The second part was to make a mockup of the possible final design of the applica
 
 With this program that will allow entry to residential gates through license plate reading, it is intended to achieve greater control and, therefore, greater security for the resident, compared to traditional entry control systems that can be ineffective and inefficient because when sharing a door password, magnetic card, etc. control of whoever accesses the residential may be lost.
 
+![cerberos1](https://github.com/diegonavarroq/Journal/blob/main/images/Cerberos3002/Screen%20Shot%202021-11-08%20at%2022.13.34.png?raw=true)
+![cerberos2](https://github.com/diegonavarroq/Journal/blob/main/images/Cerberos3002/Screen%20Shot%202021-11-08%20at%2022.13.45.png?raw=true)
 
 ## Asclepio3003
 
@@ -62,4 +66,11 @@ The importance of this technology lies mainly in the fact that patients should b
 
 ## Results
 
+### Rating
+
+![Rating](https://github.com/diegonavarroq/Journal/blob/main/images/Results/Screen%20Shot%202021-11-08%20at%2022.10.00.png?raw=true)
+
+### Comments
+
+![Comments](https://github.com/diegonavarroq/Journal/blob/main/images/Results/Screen%20Shot%202021-11-08%20at%2022.08.38.png?raw=true)
 
