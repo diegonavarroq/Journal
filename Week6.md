@@ -32,17 +32,17 @@ In previous weeks we had our Git section, and the concept is clear to me, but it
  
  #### The command I've used the most so far in my entire life:
  
- `
-  expo run:ios
- `
+  `expo run:ios`
 
-## CSS
+## React Native Style
+
+During this week it is what I have been using every day to give a good presentation to the components of the UX / UI, by the way, at the moment I am developing part of the frontend. Since I had never worked on the front end of something, I have been told that it is very similar to how CSS works. Style seemed quite intuitive, easy to learn, and organize to make it a cleaner and more understandable code for others. CSS works in a separate file and style does not.
+
+
+## Communication
+
+Effective communication within a team is necessary and having each team member well informed about what the others are doing and why they are doing it is even more necessary for each one to do their job as a team. It is notorious when a team is not well informed about the work of their colleagues and this can affect the trust that the client has in us. So it is crucial for me to use these daily standups to inform your colleagues in a brief but efficient way about what you are doing and why you are doing it, this also gives you a broader perspective of your work, since it is not a whole but a block that belongs to something bigger that your team is working to achieve.
 
 
  
-
-
-
- 
-
 
