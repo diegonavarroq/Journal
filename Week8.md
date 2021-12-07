@@ -16,3 +16,4 @@ Also:
 - Come up with solutions to problems.
 - Implement those solutions.
 
+This week we have been using a lot of continous integration. In my opinion, it was when we stopped learning a bit and started to work with the foundations that we had developed in the previous weeks. We began to add many functionalities to the project, many daily pull requests with corrections or new things that had to be added. This meant that we were continually testing and reviewing the code among ourselves.
