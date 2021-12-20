@@ -12,4 +12,10 @@ But this week it was not only about the open source phase, I also saw with my me
 
 The open source project uses a tool called Gradle that helps with the automation process in compiling the code. It also manages the dependencies within the project, which caused me some problems when I was setting up the environment because it didn't want to download some dependencies, which wouldn't let me run the project. And since at first I did not understand how Gradle works, I thought it was gradle, but working with my mentor we came to the result that it was the antivirus on my computer and not gradle itself.
 
+## Sdkman
 
+Another tool I use is Sdkman this works to install and manage various versions of SDK such as Java and Gradle. This helped me to verify that the error I described above was not due to incompatibility of the Gradle and Java versions that I was handling. It is also much easier and more practical to download, install and select which version of the SDK you want to use.
+
+## Testing
+
+After making the change to the code, a series of tests must be carried out to see that everything works well and then the Pull Request can be accepted. What I did was change a variable type from Integer to Long, the code did not pass the test because its input had to be Integer, so I also had to modify the test to read the test values correctly.
