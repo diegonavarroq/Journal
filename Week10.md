@@ -10,4 +10,4 @@ But this week it was not only about the open source phase, I also saw with my me
 
 The open source project uses a tool called Gradle that helps with the automation process in compiling the code. It also manages the dependencies within the project, which caused me some problems when I was setting up the environment because it didn't want to download some dependencies, which wouldn't let me run the project. And since at first I did not understand how Gradle works, I thought it was gradle, but working with my mentor we came to the result that it was the antivirus on my computer and not gradle itself.
 
-## Sdkman
+
