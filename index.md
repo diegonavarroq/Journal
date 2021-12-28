@@ -18,6 +18,8 @@
 
 [Week 10](https://diegonavarroq.github.io/Journal/Week10)
 
+[Week 11](https://diegonavarroq.github.io/Journal/Week11)
+
 [Pretotypes](https://diegonavarroq.github.io/Journal/Pretotypes)
 
 [Month 1](https://diegonavarroq.github.io/Journal/FirstMonthLearnings)
