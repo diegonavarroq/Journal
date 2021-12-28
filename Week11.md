@@ -9,3 +9,7 @@ This week I dedicated myself to solving another issue of Meilisearch definitely 
 What took me the most time was to fully understand the requirements of the new functionality, since I got confused with a previous PR that another person had made that was rejected, but it was not very clear why and that's when I started to interpret what it is what they really wanted. I learned how to read someone else's code and how to follow the guidelines established in this project.
 
 The guidelines of this project say that before each PR a unit test must be done for the code block that you just added or modified, unlike the last issue that I only had to modify an existing test, in this one I had to create one since I added a new method to the code.
+
+For this issue I learned to handle json with the help of a library, what I had to do was receive a json string, convert it to a jsonArray to separate the documents and send them in batches already separated and not all together as was done before.
+
+I also learned some keyboard shortcuts within IntelliJ IDEA that helped me to follow the flow of the code and find the reasons for some of the actions it performed.
