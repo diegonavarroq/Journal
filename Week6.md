@@ -45,4 +45,4 @@ Effective communication within a team is necessary and having each team member w
 
 
  
-
+[INDEX](https://diegonavarroq.github.io/Journal/)
