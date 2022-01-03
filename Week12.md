@@ -33,3 +33,6 @@ It consists of a text-based format in which each individual line is a valid JSON
 
 ### Also a CSV file example:
 ![CSV](https://github.com/diegonavarroq/Journal/blob/main/images/CSV2.png?raw=true)
+
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
