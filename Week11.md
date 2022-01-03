@@ -13,3 +13,6 @@ The guidelines of this project say that before each PR a unit test must be done 
 For this issue I learned to handle json with the help of a library, what I had to do was receive a json string, convert it to a jsonArray to separate the documents and send them in batches already separated and not all together as was done before.
 
 I also learned some keyboard shortcuts within IntelliJ IDEA that helped me to follow the flow of the code and find the reasons for some of the actions it performed.
+
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
