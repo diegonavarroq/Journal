@@ -19,3 +19,6 @@ One of my colleagues who is developing the Backend showed me the requests that a
 It is a very important softskill to know how to communicate with the client without the need to use technical language, there are some who will understand it, but the vast majority will not, then it is necessary to have that ability to be able to understand someone else's ideas in a more normal language for so to speak, otherwise it seems that the broken phone is being played with ideas that are not 100% understood. And this is where it affects delivery times because you do not realize that what you are doing is wrong until you show it to the client and this causes you to do it again or in the best case only correct some details .
 
 Just today we presented a demo for the client, it turned out better than last time but there are always some details to refine and things to learn from these presentations. Like what to say, what to commit to, things you are working on that may be better not show it to the client because it can be misunderstandings. It is very important to be able to see what you are going to be able to finish and what not in the specified period of time, in this case it is a very short period of time and not choosing well what to deliver at the end can lead you to not deliver anything what it is worse.
+
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
