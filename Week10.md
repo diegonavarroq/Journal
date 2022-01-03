@@ -19,3 +19,5 @@ Another tool I use is Sdkman this works to install and manage various versions o
 ## Testing
 
 After making the change to the code, a series of tests must be carried out to see that everything works well and then the Pull Request can be accepted. What I did was change a variable type from Integer to Long, the code did not pass the test because its input had to be Integer, so I also had to modify the test to read the test values correctly.
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
