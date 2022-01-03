@@ -11,3 +11,6 @@ I learned what deeplinking is, it would have been good to add this functionality
 I was also solving some problems in hackerrank and one in particular that I was doing with one of my mentors that we solved relatively quickly using several if statements, he asked me to solve it using only an if to reduce something called cyclomatic complexity which is a measure that gives a value that refers to the logical complexity of the code block you are evaluating.
 
 Going back to the phase of building something from scratch, personally I liked it a lot, I felt that we applied all the teachings of the first phase, which were mostly softskills for teamwork and some other good practices at work on a personal level. I feel like I learned quite a bit about the parts that make up a project and how they interact with each other to make it work. Also what is it like to work with a client and how to receive the idea that he has and translate it into an app that is ultimately to his liking and with all the requirements that he asked for.
+
+
+[INDEX](https://diegonavarroq.github.io/Journal/)
