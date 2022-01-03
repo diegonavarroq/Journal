@@ -21,3 +21,15 @@ This new issue I am working on consists of submitting new file types, which lead
 - PUT: It is similar to the POST method, but in this case insert if it does not exist and if it already exists it replaces, if we execute PUT several times it would be like having executed it only one.
 - DELETE: This method is to eliminate a specific resource, it can be executed n times and will have the same result as in the case of the PUT.
 
+## Newline Delimited JSON or ndjson
+
+It consists of a text-based format in which each individual line is a valid JSON-type text.
+
+### JSON file example:
+![JSON](https://github.com/diegonavarroq/Journal/blob/main/images/JSON.png?raw=true)
+
+### NDJSON file example:
+![NDJSON](https://github.com/diegonavarroq/Journal/blob/main/images/NDJSON.png?raw=true)
+
+### Also a CSV file example:
+![CSV](https://github.com/diegonavarroq/Journal/blob/main/images/CSV2.png?raw=true)
