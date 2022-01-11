@@ -12,5 +12,4 @@ It is a special class that represents a group of constants, in this case those c
 
 
 
-
 [Index](https://diegonavarroq.github.io/Journal)
