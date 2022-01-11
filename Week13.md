@@ -9,3 +9,8 @@ Once that was changed, it was now possible to make new methods from where each o
 ### Enum
 
 It is a special class that represents a group of constants, in this case those constants were the http verbs that were used in the different methods of the project. To avoid committing a typo, they called this class with the verbs inside.
+
+
+
+
+[Index](https://diegonavarroq.github.io/Journal)
