@@ -10,6 +10,6 @@ Once that was changed, it was now possible to make new methods from where each o
 
 It is a special class that represents a group of constants, in this case those constants were the http verbs that were used in the different methods of the project. To avoid committing a typo, they called this class with the verbs inside.
 
-
+In this issue I learned more about of object-oriented programming, since I had very rarely interacted with a project like this, I saw many things that I already knew about the theory implemented in the project, such as polymorphism and interfaces.
 
 [Index](https://diegonavarroq.github.io/Journal)
