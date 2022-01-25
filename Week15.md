@@ -11,3 +11,7 @@ So far in this book, he also advises interviewers on how to treat candidates so 
 Apart from the book that was not commissioned to be read for this phase, I am also reading a book on algorithms and data structures. I already had previous knowledge about some data structures, how they work and how they are structured, but what I had not seen is that there are specific algorithms for searching for information within these data structures.
 
 This week I learned about a data structure that I had not seen, this one is called graph and so far I know two types of graph: unweighted and weighted, the main difference is that weighted graphs assign a value to the path that goes from one node to another and the unweighted do not.
+
+The algorithms used to search within these types of data structures are Breadth-First search and dijkstra's algorithm, the first is to search in unweighted graphs and the second in weighted by which takes into account the value that is given to the path of one node to another.
+
+[Index](https://diegonavarroq.github.io/Journal/)
