@@ -12,4 +12,13 @@ This week I watched a video about a Google interview where a person solves a pro
 - If possible test your solution.
 - The most important thing BE CONFIDENT.
 
+
+### HashMap
+
 I also learned how to use a new data structure called HashMap, this consists of an ordinary array combined with a hash function. A hash function receives a data of any type and returns a number, this number will be the index in which it will be stored inside the array. This means that this structure is of the key-value type, you give the hash function the key and it returns the index of the value in the array, so access is instantaneous.
+
+
+This week was full of review more than new learning, I was reviewing some concepts of object-oriented programming, data structures and sorting algorithms. I've been troubleshooting hackerrank more than anything because I feel like I'm a bit rusty on that. This week I will try to use a method that I read on the internet that consists of trying to understand the problem in 15 minutes, implement a solution in 15 minutes and test and fix in another 15 minutes.
+
+
+[INDEX](https://diegonavarroq.github.io/Journal)
