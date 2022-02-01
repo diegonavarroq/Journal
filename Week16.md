@@ -11,3 +11,5 @@ This week I watched a video about a Google interview where a person solves a pro
 - Propose a quick solution and later you see what improvements you can make.
 - If possible test your solution.
 - The most important thing BE CONFIDENT.
+
+I also learned how to use a new data structure called HashMap, this consists of an ordinary array combined with a hash function. A hash function receives a data of any type and returns a number, this number will be the index in which it will be stored inside the array. This means that this structure is of the key-value type, you give the hash function the key and it returns the index of the value in the array, so access is instantaneous.
