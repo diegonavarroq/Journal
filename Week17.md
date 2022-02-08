@@ -20,7 +20,7 @@ I learned that lambda expressions are anonymous functions that are written exact
 
 Benefits:
 
-- Black Boc Concept.
+- Black Box Concept.
 - Descriptive code.
 - Simpler code.
 - SOLID principles.
