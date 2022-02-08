@@ -12,4 +12,17 @@ One of the new things I saw this week was another data structure called Binary T
 
 I was also looking more deeply at what constructors are in a Java class. I learned that a constructor is a special method that is called when an object is instantiated. In other words, when you use the new keyword. The purpose of a Java constructor is to initialize the newly created object before it is used. Typically, the constructor initializes the fields of the object that need initialization. 
 
+### Lambda Expressions
+
+I learned that lambda expressions are anonymous functions that are written exactly on the line of code where they are to be used. They look like this:
+
+![Lambda](https://media.geeksforgeeks.org/wp-content/uploads/lambda-expression.jpg)
+
+Benefits:
+
+- Black Boc Concept.
+- Descriptive code.
+- Simpler code.
+- SOLID principles.
+
 [INDEX](https://diegonavarroq.github.io/Journal)
